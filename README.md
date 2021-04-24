@@ -2,6 +2,8 @@
 
 <a href="https://twitter.com/joneidejohnsen/status/1385358668116463621">
     <img align="right" src=".github/tweet.jpg" height="300" />
+</a>
+
 I saw this neat design of the Apple M1 chip on the TailwindCSS discord and wanted to utilize it for my "logo" in OG-image. I experimented with other things as well, which is why I converted the design into Next.js.
 
 All credits go to @joneidgejohnsen
